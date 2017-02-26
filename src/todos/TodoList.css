@@ -1,0 +1,7 @@
+.TodoList {
+  border: 2px solid #900;
+}
+
+.active {
+  font-weight: bold;
+}
